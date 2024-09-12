@@ -1,0 +1,4 @@
+Flask==2.1.0            # Flask web framework for UI
+replicate==0.7.0        # Replicate API client
+python-dotenv==1.0.0    # If you're using .env for managing environment variables (optional)
+gunicorn==20.1.0        # WSGI server for running Flask on Render (optional, useful for deployment)
